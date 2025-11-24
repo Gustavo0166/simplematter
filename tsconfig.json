@@ -1,0 +1,13 @@
+{
+  "exclude": ["lib"],
+  "references": [{ "path": "./tsconfig.build.json" }],
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "lib": ["es2022"],
+    "module": "node20",
+    "noEmit": true,
+    "strict": true,
+    "target": "es2022",
+    "verbatimModuleSyntax": true
+  }
+}
